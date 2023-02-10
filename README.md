@@ -13,3 +13,8 @@ items
   *temperature sesor
   *Dust sensore
   *LCD 
+
+
+Sharp dust sensor 
+![image](https://user-images.githubusercontent.com/29021538/217980610-c733a84a-65fb-4db5-ae1d-02bcf1c543bc.png)
+
