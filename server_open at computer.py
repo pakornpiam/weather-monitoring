@@ -1,3 +1,5 @@
+computer is server
+
 import socket
 
 #####################
