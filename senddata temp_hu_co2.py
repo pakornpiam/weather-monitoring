@@ -1,3 +1,6 @@
+###### ESP32 is cilent#####
+
+
 from machine import Pin, SoftI2C
 import machine
 import network
